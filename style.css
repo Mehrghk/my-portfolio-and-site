@@ -138,6 +138,24 @@ button:hover{
     filter: drop-shadow( 0px 0px 5px rgb(255, 230, 0));
 }
 
+.aiorelaxer{
+    width: 300px;
+    height: 300px;
+}
+.hachlings-pic{
+    height: 210px;
+}
+.contact-pic{
+    height: 240px;
+}
+.watch-pic{
+    height: 150px;
+}
+.aiolearn-pics{
+    height: 170px;
+
+}
+
 @media (max-width : 1200px){
     .left-b{
         /* background-color: #212329; */
@@ -211,10 +229,23 @@ button:hover{
         justify-content: center;
         margin-bottom: 2px;
     }
-    /* .link-fa{
-        color: rgb(255, 230, 0);
-        filter: drop-shadow( 0px 0px 5px rgb(255, 230, 0));
-    } */
+    .aiorelaxer{
+        width: 300px;
+        height: 300px;
+    }
+    .hachlings-pic{
+        height: 210px;
+    }
+    .contact-pic{
+        height: 240px;
+    }
+    .watch-pic{
+        height: 150px;
+    }
+    .aiolearn-pics{
+        height: 170px;
+    
+    }
 }
 @media (max-width : 600px){
     .left-b{
@@ -323,6 +354,23 @@ button:hover{
     a{
         color: #212329;
         text-decoration: none;
+    }
+    .aiorelaxer{
+        width: 300px;
+        height: 300px;
+    }
+    .hachlings-pic{
+        height: 210px;
+    }
+    .contact-pic{
+        height: 240px;
+    }
+    .watch-pic{
+        height: 150px;
+    }
+    .aiolearn-pics{
+        height: 170px;
+    
     }
 }
 @media (max-width : 420px){
